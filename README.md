@@ -17,7 +17,6 @@ This repository contains Terraform configurations to provision AWS infrastructur
 
 - [Terraform](https://www.terraform.io/downloads) installed
 - AWS credentials configured (`~/.aws/credentials` or environment variables)
-- Bitbucket repository with Pipelines enabled
 - S3 bucket and DynamoDB table if using remote state backend
 
 ---
