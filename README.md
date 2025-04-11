@@ -1,4 +1,4 @@
-# 🚀 AWS Infrastructure with Terraform & Bitbucket Pipelines
+# 🚀 AWS Infrastructure with Terraform 
 
 This repository contains Terraform configurations to provision AWS infrastructure, with automated deployment integrated via Bitbucket Pipelines.
 
