@@ -26,5 +26,5 @@ This repository contains Terraform configurations to provision AWS infrastructur
 ### 1. Clone the Repository
 
 ```bash
-git clone https://bitbucket.org/your-org/your-repo.git
+git clone https://github.com/prayog22/Instance-Create.git
 ```
